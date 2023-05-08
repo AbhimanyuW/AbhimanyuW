@@ -9,19 +9,11 @@
 💪🏻 Skills:
 
 ◦ Java
-
 ◦ Python
-
 ◦ Spark
-
 ◦ Hadoop
-
 ◦ Unix
-
 ◦ Git
-
 ◦ Data Modelling 
-
 ◦ ETL/ELT 
-
 ◦ SQL
