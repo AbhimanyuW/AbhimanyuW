@@ -7,13 +7,14 @@
 💻 My work experience includes working as an Analyst / Software Developer for Capgemini Technology Services India Limited, where I contributed to the development of useful industry grade software for a financial services client. During my tenure at Capgemini, I have worked with technologies such as Java Enterprise Edition (JEE), SQL, JavaScript, React JS, and others that a Full-stack developer is proficient with.
 
 💪🏻 Skills:
-
-◦ Java
-◦ Python
-◦ Spark
-◦ Hadoop
-◦ Unix
-◦ Git
-◦ Data Modelling 
-◦ ETL/ELT 
-◦ SQL
+- Java
+- Python
+- Apache Spark, Kafka
+- Hadoop
+- AWS EC2, S3, RDS, Lambda, Glue, Redshift, Kinesis, Athena
+- Unix
+- Git
+- Data Modelling 
+- ETL/ELT 
+- CI/CD
+- SQL
