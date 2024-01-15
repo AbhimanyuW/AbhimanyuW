@@ -4,7 +4,7 @@
 
 🎓 Masters in Big Data Science (2022-2023), from Queen Mary University of London.
 
-💻 My work experience includes working as an Analyst / Software Developer for Capgemini Technology Services India Limited, where I contributed to the development of useful industry grade software for a financial services client. During my tenure at Capgemini, I have worked with technologies such as Java Enterprise Edition (JEE), SpringBoot, SQL, JavaScript, and ReactJS.
+💻  My work experience includes working as an Analyst / Software Developer for Capgemini Technology Services India Limited, where I contributed to the development of a complete Data Engineering (ETL/ELT) pipeline for a large American Financial Services company. During my tenure at Capgemini, I have worked with technologies such as Python, Apache Spark, SQL and AWS.
 
 💪🏻 Skills:
 - Java
